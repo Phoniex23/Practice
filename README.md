@@ -1,1 +1,3 @@
-# Practice hello jai mahakal
+# Practice 
+hello
+Jai Mahakal
